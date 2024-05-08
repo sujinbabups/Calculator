@@ -1,2 +1,2 @@
 # Calculator
-calc
+Simple calculator project using embeded css
